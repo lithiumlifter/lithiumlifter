@@ -19,9 +19,8 @@
 
 - 🎓 Student at **Universitas Negeri Surabaya**
 - 💼 Contributing at **[@Eureka-Logistics](https://github.com/Eureka-Logistics)**
-- 🌱 Currently learning: [isi di sini]
 - 📍 Based in Surabaya, East Java, Indonesia
-- 📫 Reach me: [email / LinkedIn kamu]
+- 📫 Reach me: mrc.dio2001@gmail.com | https://www.linkedin.com/in/muhammad-rizky-cavendio-218645238/
 
 ### 🛠️ Tech Stack
 
